@@ -1,0 +1,1 @@
+### This project is a Fork from [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) demo project. Enjoy!
